@@ -295,4 +295,4 @@ $> python get_all_state.py
 
 ## Credits
 
-Written by ZhixinLiu(zhixin.liu@dfrobot.com), 2021. (Welcome to our website)
+Written by ZhixinLiu(zhixin.liu@dfrobot.com), 2010. (Welcome to our website)
